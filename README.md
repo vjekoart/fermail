@@ -10,4 +10,4 @@ python2.7 mailer.py
 
 You can also use arguments **help** and **check** to see list of all arguments and to check config file.
 
-Password is stored in base64 inside config.ini file.
+Password is stored in base64 format inside config.ini file.
